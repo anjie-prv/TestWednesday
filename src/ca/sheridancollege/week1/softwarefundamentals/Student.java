@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author dancye May 7, 2018
  * a comment to make for the commit change
  * another  comment for commit change
+ *fetch and merge
  */
  
 public class Student 
